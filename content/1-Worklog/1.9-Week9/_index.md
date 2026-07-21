@@ -28,18 +28,16 @@ pre: " <b> 1.9. </b> "
 * Successfully established and operated a multi-tier secure infrastructure topology:
   * Positioned data processing layers completely inside private internal subnet zones.
   * Blocked external malicious connection attempts originating from public internet areas.
-  * ...
-
+  
 * Mastered precise firewall management configurations for critical database layers:
   * Created operational mappings connecting DB Subnet Groups across disparate availability sectors.
   * Enforced inbound rules restricting connections solely to standard database ports (Port 3306) from specified app engines.
-  * ...
+  
 
 * Solidified terminal command-line operations to maintain cloud services remotely:
   * Handled Linux server environments effectively to communicate with managed cloud infrastructure.
   * Completed database table writing and query validation checks successfully using the native MySQL CLI.
-  * ...
+  
 
 * Recognized resource allocation responsibilities by completing cleanup procedures to preserve account credit.
-* ...
 

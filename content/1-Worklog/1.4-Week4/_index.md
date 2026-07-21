@@ -28,7 +28,7 @@ pre: " <b> 1.4. </b> "
 * Understood the pros and cons of different database engines on AWS:
   * Amazon RDS (Relational Database)
   * Amazon DynamoDB (Non-relational Database)
-  * ...
+  
 
 * Grasped High Availability (HA) mechanisms for Databases:
   * Multi-AZ Failover
@@ -37,13 +37,13 @@ pre: " <b> 1.4. </b> "
 * Successfully established secure network groups strictly for databases:
   * DB Subnet Groups
   * Security Groups blocking internet access
-  * ...
+  
 
 * Successfully deployed a complete cloud database environment, including:
   * Initializing RDS MySQL server
   * Connecting securely from the Application tier (EC2) to the Database tier (RDS) via MySQL CLI
-  * ...
+  
 
 * Executed basic SQL queries manually on the managed cloud DB system.
-* ...
+
 

@@ -27,21 +27,21 @@ pre: " <b> 1.2. </b> "
   * VPC (Virtual Private Cloud)
   * Subnets (Public vs Private)
   * Route Tables
-  * ...
+  
 
 * Thiết kế thành công sơ đồ kiến trúc mạng 2-tier an toàn và tách biệt.
 
 * Phân biệt rõ ràng các lớp bảo mật mạng:
   * Security Groups (Tường lửa mức Instance)
   * Network ACLs (Tường lửa mức Subnet)
-  * ...
+  
 
 * Đã triển khai và cấu hình thành công một VPC tùy chỉnh từ con số không, bao gồm:
   * Phân chia dải IP (CIDR)
   * Internet Gateways
   * NAT Gateways
-  * ...
+  
 
 * Kiểm chứng khả năng định tuyến và sự cô lập của mạng thông qua các lệnh ping và SSH thực tế.
-* ...
+
 

@@ -27,16 +27,16 @@ pre: " <b> 1.12. </b> "
 * Làm chủ tư duy xây dựng giải pháp công nghệ không máy chủ (Serverless Paradigm):
   * Hiểu cơ chế vận hành tối ưu chi phí tuyệt đối khi code chỉ chạy và tính tiền theo từng mili-giây khi có sự kiện kích hoạt kích duyệt
   * Loại bỏ hoàn toàn gánh nặng kỹ thuật về việc quản lý và cập nhật bản vá hệ điều hành cho máy chủ máy ảo nền
-  * ...
+  
 
 * Triển khai xây dựng thành công ứng dụng tự động hóa hướng sự kiện:
   * Tạo lập hoàn chỉnh hàm xử lý tự động AWS Lambda bằng mã lệnh Python kết nối trực tiếp với cổng tài nguyên lưu trữ Amazon S3
   * Thành thục kỹ năng phân tích và giám sát gỡ lỗi hệ thống thông qua công cụ thu thập log tập trung Amazon CloudWatch
-  * ...
+  
 
 * Hoàn thành trọn vẹn tiến trình xây dựng báo cáo chuyên nghiệp:
   * Hệ thống hóa toàn bộ chuỗi số liệu hoạt động, kiến thức kỹ thuật tích lũy xuyên suốt 12 tuần đồng hành cùng chương trình Cloud Journey
   * Biên dịch thành công mã nguồn thô sang trang web tài liệu tĩnh hoàn chỉnh bằng Hugo framework
   * Triển khai phân phối sản phẩm báo cáo lên môi trường mạng trực tuyến, tạo lập thành công đường link xem báo cáo trực quan gửi đến người hướng dẫn đánh giá nghiệm thu đợt thực tập
-* ...
+
 

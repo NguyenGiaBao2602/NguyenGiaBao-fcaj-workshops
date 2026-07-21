@@ -27,14 +27,14 @@ pre: " <b> 1.8. </b> "
 * Phân biệt sâu sắc các mô hình kiến trúc lưu trữ dữ liệu có cấu trúc và phi cấu trúc đám mây:
   * Amazon RDS phù hợp cho các truy vấn quan hệ phức tạp cần tính toàn vẹn cao (ACID)
   * Amazon DynamoDB đáp ứng các ứng dụng quy mô lớn cần độ trễ micro-second ổn định
-  * ...
+  
 
 * Nắm vững các mô hình thiết kế đảm bảo dữ liệu không bị gián đoạn hoạt động:
   * Mô hình Multi-AZ tự động chuyển đổi dự phòng (Failover) khi có thảm họa phần cứng
   * Mô hình Read Replicas phân tách tải, tăng tốc độ xử lý cho các hệ thống đọc nhiều
-  * ...
+  
 
 * Hiểu rõ cơ chế bảo mật và quản lý tệp lưu trữ sao lưu tự động (Automated Snapshots).
 * Thiết kế thành công lược đồ dữ liệu logic, xác định rõ ràng luồng liên kết thực thể phù hợp để chuẩn bị triển khai lên cloud thực tế.
-* ...
+
 

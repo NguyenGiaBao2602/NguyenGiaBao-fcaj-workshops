@@ -28,16 +28,16 @@ pre: " <b> 1.12. </b> "
 * Mastered architectural mindsets native to Serverless Computing Paradigms:
   * Understood the budget efficiency of systems where execution expenses accumulate strictly per millisecond of runtime.
   * Removed ongoing infrastructure upkeep requirements regarding security patches and operating system management.
-  * ...
+  
 
 * Created fully automated event-driven cloud logic streams:
   * Authored data processing programs in Python attached directly to asset adjustments inside Amazon S3 containers.
   * Isolated runtime faults and inspected operational logs securely using centralized Amazon CloudWatch tracing panels.
-  * ...
+  
 
 * Completed the holistic pipeline of professional documentation reporting:
   * Organized technical knowledge metrics collected across the entire 12-week Cloud Journey timeline.
   * Transformed raw text scripts into a finished documentation portal using the Hugo engine.
   * Deployed output files to public host channels, creating live URL endpoints to submit for formal internship evaluation.
-* ...
+
 

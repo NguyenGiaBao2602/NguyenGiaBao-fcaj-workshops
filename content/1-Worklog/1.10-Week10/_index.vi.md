@@ -28,15 +28,14 @@ pre: " <b> 1.10. </b> "
   * Scalability (Tính mở rộng linh hoạt theo chiều ngang và chiều dọc)
   * High Availability (Tính sẵn sàng cao giúp ứng dụng hoạt động không ngừng nghỉ)
   * Elasticity (Tính đàn hồi tự động thu gom hoặc nhả tài nguyên theo tải thực tế)
-  * ...
+  
 
 * Hiểu sâu sắc kỹ thuật phân phối luồng dữ liệu thông minh trên Internet:
   * Phân biệt rõ ALB xử lý định tuyến thông minh dựa trên URL/Path ở tầng ứng dụng và NLB tối ưu hiệu năng tốc độ siêu cao ở tầng mạng giao thức TCP
   * Cơ chế giám sát liên tục để cô lập các máy chủ lỗi thông qua định kỳ Health Checks
-  * ...
+  
 
 * Thấu hiểu giải pháp nhân bản và quản lý cấu hình hệ thống đồng loạt tự động:
   * Sử dụng Launch Templates làm nền móng chuẩn hóa môi trường cho mọi máy ảo phát sinh mới
   * Nắm rõ cách thiết lập ngưỡng cảnh báo CPU/RAM để kích hoạt co giãn tự động hợp lý
-* ...
 

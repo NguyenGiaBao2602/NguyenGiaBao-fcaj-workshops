@@ -30,7 +30,7 @@ pre: " <b> 1.3. </b> "
   * S3 Standard
   * S3 Infrequent Access (IA)
   * S3 Glacier
-  * ...
+  
 
 * Managed cloud data securely using advanced features:
   * S3 Versioning
@@ -41,8 +41,7 @@ pre: " <b> 1.3. </b> "
   * Initializing and uploading resources to S3
   * Configuring CDN via CloudFront
   * Applying OAC to secure the S3 origin
-  * ...
+  
 
 * Understood how to access web content securely through a generated CloudFront domain.
-* ...
 

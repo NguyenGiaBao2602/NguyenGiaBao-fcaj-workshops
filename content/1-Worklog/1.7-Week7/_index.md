@@ -28,18 +28,18 @@ pre: " <b> 1.7. </b> "
 * Mastered the operational logic and mechanisms of Content Delivery Networks:
   * Used Edge Locations to minimize latency patterns for worldwide end-users.
   * Understood data dissemination workflows from the central Origin to peripheral caches.
-  * ...
+  
 
 * Successfully designed and implemented a production-grade Static Website Hosting layout:
   * Packaged web application resources safely inside specialized Amazon S3 environments.
   * Formulated CloudFront Distributions to securely manage external visitor routing.
-  * ...
+  
 
 * Implemented strict security firewalls protecting backend data endpoints:
   * Configured Origin Access Control (OAC) cryptographic identity mappings.
   * Restructured S3 Bucket Policies to deny unencrypted public requests coming from the open internet.
-  * ...
+  
 
 * Acquired system analysis capabilities to ensure web items are cached correctly and load smoothly over secure domain lines.
-* ...
+
 

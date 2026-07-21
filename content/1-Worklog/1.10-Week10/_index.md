@@ -29,15 +29,15 @@ pre: " <b> 1.10. </b> "
   * Scalability (Modifying resource footprints horizontally or vertically).
   * High Availability (Ensuring services remain continuously active without single failure points).
   * Elasticity (Automatically shrinking or expanding allocations according to active load parameters).
-  * ...
+  
 
 * Acquired deep comprehension regarding intelligent public web traffic distribution methods:
   * Contrasted path-aware Layer 7 ALB systems with high-throughput Layer 4 NLB protocols.
   * Evaluated server isolation sequences driven by automated recurring Health Check features.
-  * ...
+  
 
 * Understood batch duplication workflows used to preserve infrastructure uniformity:
   * Handled Launch Templates to provide consistent runtime environments for newly generated instances.
   * Analyzed hardware utilization thresholds (CPU/RAM metrics) required to trigger proper capacity expansions.
-* ...
+
 

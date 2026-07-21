@@ -28,14 +28,14 @@ pre: " <b> 1.8. </b> "
 * Differentiated structural variations between relational and non-relational cloud data storage engines:
   * Amazon RDS addresses intricate transactional queries needing ACID compliance parameters.
   * Amazon DynamoDB satisfies high-scale applications requiring predictable sub-millisecond latencies.
-  * ...
+  
 
 * Mastered architectural designs optimized to maintain continuous data operations:
   * Multi-AZ failover frameworks protecting systems against hardware infrastructure outages.
   * Read Replica separation models increasing performance for read-heavy system structures.
-  * ...
+  
 
 * Grasped backend administrative features surrounding managed automated backup procedures (Automated Snapshots).
 * Created a clean logical data schema defining entity relationships clearly before physical deployment workflows.
-* ...
+
 

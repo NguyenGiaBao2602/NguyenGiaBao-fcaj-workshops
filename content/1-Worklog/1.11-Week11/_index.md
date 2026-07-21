@@ -28,18 +28,17 @@ pre: " <b> 1.11. </b> "
 * Successfully constructed and validated a Self-healing cloud infrastructure layout:
   * Automated application server staging routines cleanly using shell script configurations within User Data blocks.
   * Channeled incoming connection pathways evenly to background computing targets via a singular ALB DNS endpoint.
-  * ...
+  
 
 * Realized full system disaster recovery planning at a data center scale:
   * Protected service availability lines by stretching virtual server footprints across physical Availability Zone boundaries.
   * Confirmed backup zones automatically absorb standard visitor loads if one data sector becomes isolated.
-  * ...
+  
 
 * Demonstrated elastic performance capabilities built into active Auto Scaling Groups:
   * Verified systems correctly identify drops below Desired Capacity levels when instances face sudden destruction.
   * Monitored the automated launch, verification checks, and configuration integration of fresh servers without human interaction.
-  * ...
+  
 
-* Formulated resource collection management procedures to terminate multi-tier scaling stacks cleanly.
-* ...
+* Formulated resource collection management procedures to terminate multi-tier scaling stacks cleanly.* ...
 

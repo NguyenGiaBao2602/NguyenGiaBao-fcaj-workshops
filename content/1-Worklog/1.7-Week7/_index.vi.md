@@ -27,18 +27,18 @@ pre: " <b> 1.7. </b> "
 * Làm chủ tư duy và cơ chế vận hành mạng phân phối nội dung CDN:
   * Sử dụng hệ thống Edge Locations giảm thiểu tối đa độ trễ phản hồi cho người dùng toàn cầu
   * Hiểu rõ cơ chế phân phối dữ liệu từ máy chủ gốc (Origin) đến các điểm lưu đệm biên
-  * ...
+  
 
 * Đã xây dựng và triển khai thành công mô hình Static Website Hosting trên môi trường production thực tế, bao gồm:
   * Đóng gói mã nguồn web tĩnh và đẩy lên Amazon S3 bảo mật
   * Cấu hình CloudFront Distribution thiết lập định tuyến luồng traffic
-  * ...
+  
 
 * Thiết lập tường lửa bảo mật dữ liệu nguồn ở mức độ cao:
   * Cấu hình thành công cơ chế Origin Access Control (OAC) mã hóa định danh
   * Chỉnh sửa S3 Bucket Policy nhằm từ chối mọi yêu cầu truy xuất trực tiếp từ Internet
-  * ...
+  
 
 * Đạt khả năng phân tích luồng mạng, đảm bảo tệp tin ứng dụng web được cache tối ưu và vận hành trơn tru qua link domain an toàn.
-* ...
+
 

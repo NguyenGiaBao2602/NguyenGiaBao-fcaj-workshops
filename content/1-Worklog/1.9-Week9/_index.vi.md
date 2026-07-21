@@ -27,18 +27,18 @@ pre: " <b> 1.9. </b> "
 * Đã cấu hình và vận hành thành công kiến trúc bảo mật phân tầng (Multi-tier Infrastructure):
   * Tầng Database được giấu hoàn toàn trong phân vùng mạng kín Private Subnet
   * Chặn đứng mọi nỗ lực quét cổng hoặc dò tìm thông tin từ môi trường mạng ngoài Internet
-  * ...
+  
 
 * Làm chủ kỹ năng cấu hình tường lửa lớp dữ liệu tinh gọn nâng cao:
   * Tạo lập thành công liên kết an toàn giữa DB Subnet Groups đa vùng
   * Áp dụng thành công luật lọc gói tin chỉ cho phép cổng dịch vụ tiêu chuẩn (Port 3306) kết nối từ tầng máy chủ Web chỉ định
-  * ...
+  
 
 * Thành thục kỹ năng quản trị dòng lệnh điều khiển hệ thống từ xa:
   * Sử dụng thành công công cụ terminal máy chủ Linux kết nối xuyên suốt đến dịch vụ quản lý đám mây
   * Khởi tạo bảng dữ liệu và ghi đọc kiểm tra chất lượng kết nối thành công qua MySQL CLI
-  * ...
+  
 
 * Hiểu rõ tầm quan trọng của việc thu hồi tài nguyên thực hành (RDS snapshot/termination) để tối ưu hóa hạn mức tài khoản.
-* ...
+
 

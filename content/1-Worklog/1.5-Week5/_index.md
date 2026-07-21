@@ -28,7 +28,7 @@ pre: " <b> 1.5. </b> "
 * Deeply understood how cloud systems handle massive traffic via:
   * Layer 7 Load Balancing (ALB)
   * Layer 4 Load Balancing (NLB)
-  * ...
+  
 
 * Grasped the importance of automated server health monitoring:
   * Configuring Target Groups
@@ -37,13 +37,13 @@ pre: " <b> 1.5. </b> "
 * Manually configured an automated virtual server cloning environment, including:
   * Creating Launch Templates with pre-packaged web server configurations
   * Building Scaling Policies to scale resources based on demand
-  * ...
+  
 
 * Fully deployed a High Availability architecture:
   * Running a Load Balancer distributing traffic across multiple Availability Zones
   * Simulating server failure and verifying Auto Scaling's automatic replacement capability
-  * ...
+  
 
 * Proven the flexibility and fault-tolerance of a deployed web application.
-* ...
+
 

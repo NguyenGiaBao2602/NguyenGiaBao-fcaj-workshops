@@ -27,18 +27,18 @@ pre: " <b> 1.11. </b> "
 * Xây dựng và kiểm chứng thành công mô hình cơ sở hạ tầng tự sửa chữa (Self-healing infrastructure) trên môi trường Cloud:
   * Tự động hóa hoàn toàn quy trình khởi chạy máy chủ có cài đặt sẵn dịch vụ thông qua User Data kịch bản shell script
   * Phân phối lưu lượng đồng đều đến các máy ảo backend thông qua DNS duy nhất của ALB
-  * ...
+  
 
 * Triển khai hoàn chỉnh khả năng chống chịu thảm họa vật lý ở quy mô Data Center:
   * Hệ thống hoạt động an toàn tuyệt đối nhờ cơ chế phân bổ máy ảo vắt chéo qua nhiều Availability Zones độc lập
   * Khi một vùng bị cô lập hoặc mất điện kết nối, vùng còn lại tự động gánh vác toàn bộ lưu lượng người dùng
-  * ...
+  
 
 * Thực chứng năng lực vận hành co giãn đàn hồi tự động của Auto Scaling Groups:
   * Hệ thống phát hiện chính xác sự thiếu hụt máy chủ so với chỉ số mong muốn (Desired Capacity) khi có máy ảo bị phá hủy
   * Kích hoạt quy trình tạo mới, kiểm tra sức khỏe đạt chuẩn và tự động cấu hình đưa vào phân bổ tải của ALB mà không cần con người can thiệp
-  * ...
+  
 
 * Nắm rõ quy trình thu hồi hệ thống co giãn phức tạp để tối ưu hạn mức sử dụng.
-* ...
+
 

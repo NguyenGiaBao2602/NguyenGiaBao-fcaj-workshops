@@ -28,21 +28,20 @@ pre: " <b> 1.6. </b> "
 * Clearly differentiated the core nature of two foundational storage platforms:
   * Object Storage (Amazon S3)
   * Block Storage (Amazon EBS)
-  * ...
+  
 
 * Mastered cost optimization techniques based on file access frequency via S3 Storage Classes:
   * Standard class for frequently accessed data
   * Infrequent Access (IA) class to save costs for less-used data
   * Glacier class specialized for long-term data archiving
-  * ...
+  
 
 * Grasped cloud resource management and integrity protection mechanisms:
   * S3 Versioning to recover overwritten or accidentally deleted files
   * Lifecycle Rules to automate storage class transitions or expire old files
-  * ...
-
+  
 * Mastered assigning and enforcing secure access privileges:
   * Setting up S3 Bucket Policies applied directly to the container resource
   * Combining IAM Policies for fine-grained user identity permissions
-* ...
+
 

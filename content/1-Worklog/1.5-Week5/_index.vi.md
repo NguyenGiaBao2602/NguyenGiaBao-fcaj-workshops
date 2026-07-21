@@ -26,7 +26,7 @@ pre: " <b> 1.5. </b> "
 * Thấu hiểu sâu sắc cách hệ thống đám mây xử lý lưu lượng truy cập lớn thông qua:
   * Cân bằng tải lớp 7 (ALB)
   * Cân bằng tải lớp 4 (NLB)
-  * ...
+  
 
 * Hiểu tầm quan trọng của việc giám sát sức khỏe máy chủ tự động:
   * Thiết lập Target Groups
@@ -35,13 +35,13 @@ pre: " <b> 1.5. </b> "
 * Đã tự tay cấu hình môi trường nhân bản máy chủ ảo hóa tự động, bao gồm:
   * Tạo Launch Templates đóng gói sẵn cấu hình web server
   * Xây dựng Scaling Policies để co giãn theo nhu cầu
-  * ...
+  
 
 * Triển khai hoàn thiện kiến trúc sẵn sàng cao (High Availability):
   * Chạy Load Balancer phân bổ tải qua nhiều Availability Zones
   * Giả lập sự cố máy chủ và xác nhận khả năng Auto Scaling tự động thay thế máy hỏng
-  * ...
+  
 
 * Chứng minh được tính linh hoạt và khả năng chịu lỗi (fault-tolerance) của ứng dụng web.
-* ...
+
 

@@ -29,21 +29,21 @@ pre: " <b> 1.2. </b> "
   * VPC (Virtual Private Cloud)
   * Subnets (Public vs Private)
   * Route Tables
-  * ...
+  
 
 * Successfully designed an isolated and secure 2-tier network diagram.
 
 * Clearly differentiated between network security layers:
   * Security Groups (Instance-level firewall)
   * Network ACLs (Subnet-level firewall)
-  * ...
+  
 
 * Successfully deployed and configured a custom VPC from scratch, including:
   * Custom CIDR allocations
   * Internet Gateways
   * NAT Gateways
-  * ...
+  
 
 * Verified routing capabilities and network isolation using practical ping and SSH commands.
-* ...
+
 

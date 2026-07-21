@@ -27,18 +27,18 @@ pre: " <b> 1.6. </b> "
 * Phân biệt rõ ràng bản chất giữa hai nền tảng lưu trữ cốt lõi:
   * Object Storage (Amazon S3)
   * Block Storage (Amazon EBS)
-  * ...
+  
 
 * Làm chủ kỹ thuật tối ưu hóa chi phí hệ thống dựa trên tần suất truy cập tệp tin qua S3 Storage Classes:
   * Lớp Standard dành cho dữ liệu truy cập thường xuyên
   * Lớp Infrequent Access (IA) tiết kiệm chi phí cho dữ liệu ít dùng
   * Lớp Glacier chuyên dụng cho việc lưu trữ lưu kho dài hạn
-  * ...
+ 
 
 * Hiểu rõ cơ chế quản lý và bảo vệ toàn vẹn tài nguyên trên Cloud:
   * Cơ chế S3 Versioning giúp khôi phục các tệp tin bị ghi đè hoặc xóa nhầm
   * Quy tắc Lifecycle Rules tự động hóa tiến trình chuyển lớp lưu trữ hoặc hủy tệp tin hết hạn
-  * ...
+  
 
 * Nắm vững cách phân cấp và thực thi quyền hạn truy cập an toàn bảo mật:
   * Thiết lập S3 Bucket Policies áp dụng trực tiếp cho tài nguyên chứa

@@ -26,8 +26,7 @@ pre: " <b> 1.4. </b> "
 * Hiểu rõ ưu và nhược điểm của các loại cơ sở dữ liệu trên AWS:
   * Amazon RDS (Cơ sở dữ liệu quan hệ)
   * Amazon DynamoDB (Cơ sở dữ liệu phi quan hệ)
-  * ...
-
+  
 * Nắm bắt cơ chế đảm bảo tính sẵn sàng cao (HA) cho Database:
   * Multi-AZ Failover
   * Read Replicas (Mở rộng năng lực đọc)
@@ -35,13 +34,13 @@ pre: " <b> 1.4. </b> "
 * Đã thiết lập thành công các nhóm mạng bảo mật dành riêng cho cơ sở dữ liệu:
   * DB Subnet Groups
   * Security Groups chặn truy cập Internet
-  * ...
+  
 
 * Triển khai hoàn chỉnh môi trường cơ sở dữ liệu đám mây, bao gồm:
   * Khởi tạo máy chủ RDS MySQL
   * Kết nối an toàn từ tầng Application (EC2) sang tầng Database (RDS) thông qua MySQL CLI
-  * ...
+  
 
 * Tự tay thực thi các truy vấn SQL cơ bản trên hệ thống DB đám mây được quản lý.
-* ...
+
 
