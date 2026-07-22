@@ -7,7 +7,7 @@ chapter: false
 
 # Báo cáo thực tập
 ### Thông tin sinh viên:
-&emsp; **Họ và tên:** Nguyễn Gia Baả   
+&emsp; **Họ và tên:** Nguyễn Gia Bảo
 
 &emsp; **Số điện thoại:** 0379431458   
 
