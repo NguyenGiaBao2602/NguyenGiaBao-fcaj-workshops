@@ -8,32 +8,31 @@ pre: " <b> 1. </b> "
 
 
 
-**Trong trang này** bạn sẽ cần giới thiệu worklog của bạn **như thế nào**? Bạn hoàn thành chương trình trong vòng **bao nhiêu tuần**? Bạn **đã làm gì** trong các tuần đó?
+Worklog này tổng hợp quá trình thực tập 12 tuần của tôi, từ ngày 17/04 đến ngày 11/07/2026. Nội dung ghi lại kiến thức AWS, các bài thực hành, sự kiện cộng đồng, tiến độ dự án nhóm và công việc hoàn thiện báo cáo trong suốt chương trình.
 
+### Tiến Độ Theo Tuần
 
-Thông thường và cũng là tiêu chuẩn, một worklog được thực hiện trong khoảng 3 tháng (trong suốt thời gian thực tập) với nội dung các tuần như sau:
+**Tuần 1:** [Tạo tài khoản và tìm hiểu các dịch vụ chính trong AWS](1.1-week1/)
 
-**Tuần 1:** [Làm quen với hạ tầng AWS, giao diện Console và các dịch vụ cơ bản](1.1-week1/)
+**Tuần 2:** [Quản lý truy cập với IAM User, Group, Policy, Role và Switch Role](1.2-week2/)
 
-**Tuần 2:** [Thiết kế và cấu hình mạng Đám mây ảo riêng biệt (Amazon VPC)](1.2-week2/)
+**Tuần 3:** [Cấu hình AWS Budgets, ngưỡng chi phí và cảnh báo tự động](1.3-week3/)
 
-**Tuần 3:** [Triển khai lưu trữ Website tĩnh tốc độ cao với Amazon S3 và CloudFront](1.3-week3/)
+**Tuần 4:** [Triển khai EC2, cấu hình Security Group, sao lưu EBS và kết nối RDS](1.4-week4/)
 
-**Tuần 4:** [Khám phá hệ sinh thái Cơ sở dữ liệu và thiết lập máy chủ RDS MySQL](1.4-week4/)
+**Tuần 5:** [Thực hành Manual và Auto Scaling, tìm hiểu serverless và tham gia FCAJ Community Day](1.5-week5/)
 
-**Tuần 5:** [Xây dựng kiến trúc sẵn sàng cao với Load Balancer và Auto Scaling](1.5-week5/)
+**Tuần 6:** [Triển khai AWS Lambda với API Gateway và tham gia Meet Up 30/05](1.6-week6/)
 
-**Tuần 6:** [Nghiên cứu chuyên sâu các Lớp lưu trữ S3 và quy tắc vòng đời dữ liệu](1.6-week6/)
+**Tuần 7:** [Tìm hiểu và triển khai ứng dụng container trên AWS](1.7-week7/)
 
-**Tuần 7:** [Bảo mật điểm cuối hệ thống CDN sử dụng CloudFront và S3 OAC](1.7-week7/)
+**Tuần 8:** [Giám sát hạ tầng, lọc log và tìm hiểu các dịch vụ lưu trữ AWS](1.8-week8/)
 
-**Tuần 8:** [Phân tích kiến trúc cơ sở dữ liệu và cơ chế dự phòng thảm họa Multi-AZ](1.8-week8/)
+**Tuần 9:** [Tối ưu chi phí và cấu hình sao lưu, phục hồi tự động](1.9-week9/)
 
-**Tuần 9:** [Thiết lập mạng lưới đa tầng kết nối máy chủ EC2 với phân vùng DB nội bộ](1.9-week9/)
+**Tuần 10:** [Tìm hiểu migration, mạng nâng cao, tham gia FCAJ Community Day và xây dựng ý tưởng dự án](1.10-week10/)
 
-**Tuần 10:** [Phân tích nguyên lý tự co giãn tài nguyên, Health Checks và chịu tải hệ thống](1.10-week10/)
+**Tuần 11:** [Thực hiện dự án nhóm và đối chiếu tiến độ với mục tiêu đề tài](1.11-week11/)
 
-**Tuần 11:** [Kiểm thử khả năng tự phục hồi (Self-healing) với Auto Scaling Groups đa vùng](1.11-week11/)
-
-**Tuần 12:** [Triển khai kiến trúc không máy chủ (Serverless) với AWS Lambda và CloudWatch](1.12-week12/)
+**Tuần 12:** [Hoàn thành dự án nhóm, viết báo cáo thực tập và triển khai worklog Hugo bằng Netlify](1.12-week12/)
 
