@@ -1,77 +1,102 @@
 ---
-title : "Event 2: FCAJ Community Day - June 2026"
-date : 2026-06-27
-weight : 3
-chapter : false
-pre : " <b> 4.3. </b> "
+title: "Event 2: Meet Up 30/05"
+date: 2026-05-30
+weight: 2
+chapter: false
+pre: " <b> 4.2. </b> "
 ---
 
-### Event Objectives
+# Event Report: “Meet Up 30/05”
 
-- **Update Trends & Share Practical Perspectives:** To provide the engineering community and IT students with real-world industry perspectives on how enterprises deploy AI across departments to address Technical Debt.
-- **Optimize Engineering & Operational Processes:** To introduce modern application pathways via Agent architectures (Single-Agent, Multi-Agent), enhancing observability and automating cloud infrastructure incident response (DevOps AI Agent).
-- **Address Localization and Security Challenges:** To guide the development of localized Voice AI specialized for Vietnamese (handling regional dialects and conversational contexts) and establish Private Security Connections to protect sensitive internal corporate data.
-- **Career Guidance:** To help tech professionals map out their Career Paths, establish early connections with enterprises, and cultivate the necessary skill sets to collaborate effectively with AI.
+### Event Objectives & Overview
+
+Meet Up 30/05 provided students and technology enthusiasts with practical perspectives on artificial intelligence, cloud computing, software development, and teamwork. Through presentations and demonstrations, the event connected technical knowledge with real-world use cases and encouraged participants to develop the skills required in a modern technology environment.
+
+The core objectives included:
+
+- Sharing practical knowledge and current trends in AI and cloud computing.
+- Introducing approaches to building, operating, and securing modern applications.
+- Encouraging communication, teamwork, and problem-solving skills.
+- Creating opportunities for students to learn from speakers and connect with the technology community.
 
 ### Speaker Lineup
 
-- **Mr. Steve Tran** – Founder & CEO at Cloud Thinker (Former Solutions Architect at Amazon Web Services).
-- **Mr. Hieu Nghi** – Representative from Renova Cloud.
-- **Mr. Kiet** – Representative from the AWS Student Builder Group community.
-- **Mr. Trung Nguyen** – Founder & CEO at R AI (Expert providing AI Agent solutions for major banks like VPBank, VIB).
-- **Ms. Bao & Mr. Nguyen Nguyen** – Cloud Engineers from the Cloud Kinetics team.
-- **Mr. Truong (Wren) & Ms. Minh Anh** – AI Solution Specialists from Noventic.
-- **Mr. Toan Nguyen** – Cloud Security Expert (AWS Security Builder).
+- **Huỳnh Thái Linh** – “Level Up Your AWS Skills with Cloud Quest and Floci”
+- **Khắc Uy** – “The Iceberg of Procrastination”
+- **Nguyễn Thị Quỳnh Như** – “Why We Always Need Confidence”
+- **Phạm Quang Thái**
+- **Trần Hữu Nghĩa**
+- **Trần Minh Quân** – “The Hidden Iceberg of a Project: DevOps Before Disaster”
+- **The Ballers** – **Huỳnh An Khương**, **Mai Quốc Anh**, and **Nguyễn Trần Minh Quân** – “FCAJ Challenger Hackathon”
 
 ### Key Highlights
 
-#### 1. Agent Architecture Trends in Enterprises (Cloud Thinker)
-- Analysis of the trade-offs between cost and performance in Single-Agent (Super Agent) vs. Multi-Agent (Specialist Agents) architectures.
-- How AI empowers humans in production environment operations, cost optimization (FinOps), code reviews, and automated penetration testing.
+#### Learning AWS Safely with Cloud Quest and Floci – Huỳnh Thái Linh
 
-#### 2. Localized Voice AI Agent for Vietnamese (R AI & Renova Cloud)
-Solving the low-resource language challenge for Vietnamese using an integrated 3-component framework:
+- Beginners often hesitate to practice AWS because they worry about unexpected bills, forgotten resources, and additional charges.
+- AWS Cloud Quest provides a free, beginner-friendly, game-based environment for guided hands-on learning.
+- Floci is an open-source AWS service emulator for local testing without cloud costs. It offers fast architecture experiments, although its mocked services and incomplete AWS compatibility mean that it cannot fully replace testing on real AWS.
+- The recommended learning path has three phases: learn concepts and architecture with Cloud Quest, write code and test quickly with Floci, then validate and deploy on real AWS.
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px; margin: 20px 0; font-weight: bold; font-size: 0.95em;">
-  <div style="background-color: #fff7ed; color: #9a3412; padding: 8px 12px; border-radius: 6px; border: 1px solid #ffedd5;">Speech-to-Text (STT)</div>
-  <div style="color: #9a3412; font-size: 1.2em;">&rarr;</div>
-  <div style="background-color: #fff7ed; color: #9a3412; padding: 8px 12px; border-radius: 6px; border: 1px solid #ffedd5;">Contextual LLM Processing</div>
-  <div style="color: #9a3412; font-size: 1.2em;">&rarr;</div>
-  <div style="background-color: #fff7ed; color: #9a3412; padding: 8px 12px; border-radius: 6px; border: 1px solid #ffedd5;">Text-to-Speech (TTS)</div>
-</div>
+#### The Iceberg of Procrastination – Khắc Uy
 
-- Handling advanced real-world banking interactions: Gender detection for proper honorifics, natural interruption algorithms, and Tool Calling integration for automated complex tasks (e.g., locking a bank card).
+- Procrastination may look like laziness on the surface, but its deeper causes often include fear of inadequacy, judgment, and failure.
+- Avoiding a difficult task creates temporary relief, followed by guilt, stress, and even more procrastination.
+- The practical response is to name the fear and apply the five-minute rule: open the task, take one very small step, and allow momentum to develop.
+- The core message was that action creates confidence. Builders should start before everything feels perfect, learn quickly, and improve through experience.
 
-#### 3. DevOps AI Agent Infrastructure (Cloud Kinetics)
-- Introduction to the 6 core pillars of DevOps Agents that automate Root Cause Analysis (RCA) when incidents or alerts trigger.
-- Real-world case study simulation: An e-commerce platform facing a simulated DDoS attack experienced a latency surge up to 12 seconds. The DevOps Agent automatically scanned the system's topology graph (encompassing nearly 300 connections), precisely isolated 10 overloading ECS Tasks, and exported a mitigation script for engineer approval, resolving the issue within minutes.
+#### Why We Always Need Confidence – Nguyễn Thị Quỳnh Như
 
-#### 4. HR Administration & Private Security Connection Applications (Noventic)
-- Leveraging Amazon Q/Quick to build specific skills for automated batch-CV parsing and compatibility scoring against JDs, drastically reducing manual filtering workloads.
-- Advanced technical solution: Placing MCP Servers inside a Private Subnet, utilizing Interface Endpoints for isolated AWS internal networking, and integrating AWS Secrets Manager and Route 53 Resolver to completely eliminate public internet exposure and Man-in-the-middle attack surfaces.
+- Confidence is neither ego nor perfection; it is the willingness to act even while feeling nervous.
+- Self-doubt can hide a student's potential, reduce participation, and cause valuable academic and career opportunities to be missed.
+- Technical skills are the foundation, while confidence is the bridge that helps a person communicate, collaborate, make decisions, and take ownership.
+- Preparation, celebrating small wins, and using the five-second rule are practical methods for building confidence over time.
+
+#### The Hidden Iceberg of a Project: DevOps Before Disaster – Trần Minh Quân
+
+- Visible symptoms such as missed deadlines, production bugs, failed deployments, customer complaints, and team burnout are only the tip of a project's iceberg.
+- Hidden causes include ambiguous requirements, communication gaps, siloed teams, weak ownership, manual processes, and slow feedback loops.
+- DevOps is not merely a collection of tools such as Docker, Kubernetes, CI/CD, cloud platforms, or Terraform. Its foundation combines people, process, and technology.
+- Collaboration breaks down silos, automation reduces friction and human error, fast feedback exposes problems earlier, and continuous improvement prevents repeated failures.
+
+#### FCAJ Challenger Hackathon – The Ballers
+
+- A hackathon is a fast-paced event where teams build a prototype or minimum viable product within a limited period, commonly 24–48 hours.
+- The Ballers shared their first 36-hour hackathon experience, including rapid ideation, hardware problems, limited sleep, deployment pressure, pitching, and teamwork.
+- **SynthHunter** addressed AI-generated voice fraud through a three-pillar detection engine based on speech dynamics, encoder behavior, and temporal rhythm.
+- **Vortex** proposed a connected recruitment preparation workflow covering CV screening, behavioral interviews, and technical rounds.
+- Both projects reached the Top 10 of the AWS Track; SynthHunter ranked in the overall Top 21 and Vortex in the overall Top 25.
+- Their key lessons were to start with a real problem, remain persistent, experiment repeatedly, adapt resourcefully, and make effective use of available tools.
 
 ### Key Takeaways
 
-#### Modern Developer Mindset
-- **AI as an Amplifier:** Solid technical fundamentals remain the absolute core; AI serves as a powerful amplifier to scale developer productivity rather than a complete replacement for human expertise.
+#### Technical Mindset
 
-#### Governance and Security Rigor
-- **System Integrity:** Prioritized the maturity of corporate data governance, systems observability, and isolated internal network connectivity through secure Private VPC Connections over superficial tech trends.
+- **Learn from real problems:** Technology should be selected according to the problem and expected outcome rather than current trends alone.
+- **Build strong foundations:** Knowledge of software, cloud infrastructure, data, and security remains essential when working with AI tools.
+- **Improve continuously:** Technical solutions should be observed, evaluated, and refined based on feedback and operational results.
 
-#### Proactive Career Strategy
-- **Active Upskilling:** Recognized the importance of early industry exposure through tech internships and learned to optimize personal resumes (CVs) against automated AI screening keyword criteria to maximize professional opportunities.
+#### Professional Skills
+
+- **Communication:** Explain technical ideas clearly to both technical and non-technical audiences.
+- **Collaboration:** Listen actively, share responsibilities, and support team members during preparation and presentation.
+- **Proactivity:** Ask questions, explore unfamiliar technologies, and turn lessons from the event into practical experiments.
+
+### Application to My Studies and Work
+
+- Apply cloud and AI knowledge to personal and group projects.
+- Practice presenting technical topics using clear diagrams, demonstrations, and real-world examples.
+- Improve teamwork by defining responsibilities, timelines, and expected outcomes at the beginning of each project.
+- Continue developing the technical and communication skills required for a future career in cloud computing.
 
 ### Event Experience
 
-Attending the **“FCAJ Community Day - June 2026”** meetup provided a deeply practical, multi-disciplinary technical experience:
+Attending **“Meet Up 30/05”** was a valuable opportunity to learn from multiple speakers and observe different presentation styles. The event helped me better understand how AI and cloud technologies are applied in practice while also showing the importance of teamwork and effective technical communication.
 
-- **Learning from High-Caliber Experts:** Gained realistic enterprise insights regarding career progression pathways, cloud infrastructure cost management, and workforce restructuring strategies during GenAI adoption from industry Founders and Senior Cloud Engineers.
-- **Interactive Technical Demonstrations:** Witnessed live, high-stakes on-stage demos featuring real-time conversational Voice AI and DevOps Agents conducting automated anomaly detection and execution of mitigation scripts.
-- **Application of Modern Tools:** Acquired deep, hands-on exposure to next-generation tools within the AWS ecosystem, including Amazon Q, Amazon Quick, and SDKs utilizing the Model Context Protocol (MCP).
-- **Networking and Active Exchange:** Explored the modern AWS office workspace at Bitexco, directly engaged with industry professionals and peers, and actively participated in Q&A discussions regarding Data Transfer Costs and context window efficiency.
+The open atmosphere encouraged participants to exchange ideas, ask questions, and connect with people who share an interest in technology. The lessons from the event gave me additional motivation to continue learning, practice through projects, and prepare more confidently for a future role in the cloud industry.
 
-#### Event Media Logs
-![Ảnh 1](/images/4-Events/Event2.png)
+#### Event Media
 
+![Event photo](/images/4-Events/Event2.png)
 
-> **Summary:** This workshop successfully bridged the gap between automated DevOps execution and secure corporate infrastructure. The insights on private endpoints and network cloaking directly complement my career goal of becoming a future Cloud Solutions Architect.
+> **Summary:** Meet Up 30/05 combined technical knowledge, practical perspectives, and community connection. It strengthened my understanding of AI and cloud computing while reinforcing the professional skills needed for future study and work.
