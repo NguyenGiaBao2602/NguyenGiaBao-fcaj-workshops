@@ -6,35 +6,24 @@ chapter: false
 pre: " <b> 1.8. </b> "
 ---
 
-
+**Thời gian thực tập:** 08/06/2026 - 13/06/2026
 
 ### Mục tiêu tuần 8:
 
-* Nghiên cứu sâu toàn diện các dịch vụ giải pháp Cơ sở dữ liệu của hạ tầng AWS.
-* Phân tích thiết kế cấu trúc dữ liệu và chuẩn bị kiến trúc phân vùng lưu trữ cho hệ thống.
+* Tìm hiểu phương pháp giám sát và quản lý hệ thống trên AWS.
+* Khám phá bộ lọc log, theo dõi sức khỏe hạ tầng và các dịch vụ lưu trữ AWS.
 
-### Các công việc cần triển khai trong tuần này:
-| Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Tìm hiểu kiến trúc Amazon RDS (Cơ sở dữ liệu quan hệ) <br>&emsp; + Các loại Database Engine trợ giúp (MySQL, PostgreSQL) <br>&emsp; + Tính năng tự động hóa quản lý hệ thống | 08/06/2026   | 08/06/2026      | <https://cloudjourney.awsstudygroup.com/> |
-| 3   | - Nghiên cứu kiến trúc sẵn sàng cao HA cho dữ liệu <br>&emsp; + Multi-AZ Deployments (Đồng bộ dữ liệu đa vùng) <br>&emsp; + Read Replicas (Bản sao mở rộng luồng đọc) | 09/06/2026   | 09/06/2026      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Tìm hiểu giải pháp cơ sở dữ liệu phi quan hệ NoSQL <br>&emsp; + Amazon DynamoDB cơ bản <br>&emsp; + Khái niệm cơ chế khóa Partition Keys và Sort Keys <br>&emsp; + Chế độ Provisioned vs On-demand | 10/06/2026   | 10/06/2026      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Phân tích đánh giá kịch bản Use-case thực tế nên chọn lựa RDS hay DynamoDB <br> - Thiết kế phác thảo một sơ đồ cấu trúc cơ sở dữ liệu quan hệ mẫu | 11/06/2026   | 11/06/2026      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - Tìm hiểu nguyên lý thiết kế phân vùng lưu trữ an toàn cách ly mạng cho Database <br> - Tìm hiểu tổng quan khái niệm cấu hình DB Subnet Groups | 12/06/2026   | 12/06/2026      | <https://cloudjourney.awsstudygroup.com/> |
+### Các công việc đã thực hiện:
+
+| Ngày | Công việc | Nguồn tài liệu |
+| --- | --- | --- |
+| 08/06/2026 | Tìm hiểu các khái niệm monitoring, metric, log và alarm. | <https://cloudjourney.awsstudygroup.com/> |
+| 09/06/2026 | Khảo sát các công cụ AWS dùng để quan sát và quản lý hạ tầng. | <https://cloudjourney.awsstudygroup.com/> |
+| 10/06/2026 | Thiết lập bộ lọc log để phát hiện các sự kiện vận hành quan trọng. | <https://cloudjourney.awsstudygroup.com/> |
+| 12/06/2026 | Theo dõi sức khỏe hạ tầng và đánh giá thông tin thu thập được. | <https://cloudjourney.awsstudygroup.com/> |
+| 13/06/2026 | Nghiên cứu các lựa chọn lưu trữ AWS và so sánh những trường hợp sử dụng phổ biến. | <https://cloudjourney.awsstudygroup.com/> |
 
 ### Kết quả đạt được tuần 8:
 
-* Phân biệt sâu sắc các mô hình kiến trúc lưu trữ dữ liệu có cấu trúc và phi cấu trúc đám mây:
-  * Amazon RDS phù hợp cho các truy vấn quan hệ phức tạp cần tính toàn vẹn cao (ACID)
-  * Amazon DynamoDB đáp ứng các ứng dụng quy mô lớn cần độ trễ micro-second ổn định
-  
-
-* Nắm vững các mô hình thiết kế đảm bảo dữ liệu không bị gián đoạn hoạt động:
-  * Mô hình Multi-AZ tự động chuyển đổi dự phòng (Failover) khi có thảm họa phần cứng
-  * Mô hình Read Replicas phân tách tải, tăng tốc độ xử lý cho các hệ thống đọc nhiều
-  
-
-* Hiểu rõ cơ chế bảo mật và quản lý tệp lưu trữ sao lưu tự động (Automated Snapshots).
-* Thiết kế thành công lược đồ dữ liệu logic, xác định rõ ràng luồng liên kết thực thể phù hợp để chuẩn bị triển khai lên cloud thực tế.
-
-
+* Hiểu cách metric, log, filter và alarm hỗ trợ giám sát hạ tầng.
+* Phân biệt rõ hơn các lựa chọn lưu trữ AWS theo từng nhu cầu dữ liệu.

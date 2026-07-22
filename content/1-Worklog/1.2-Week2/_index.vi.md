@@ -6,42 +6,24 @@ chapter: false
 pre: " <b> 1.2. </b> "
 ---
 
+**Thời gian thực tập:** 27/04/2026 - 02/05/2026
 
 ### Mục tiêu tuần 2:
 
-* Tìm hiểu kiến trúc mạng cốt lõi của AWS (Amazon VPC).
-* Nắm vững các khái niệm về bảo mật luồng mạng và định tuyến.
+* Hiểu cách quản lý danh tính và quyền truy cập bằng AWS IAM.
+* Thực hành phân quyền thông qua group, user, policy và role.
 
-### Các công việc cần triển khai trong tuần này:
-| Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Tìm hiểu kiến trúc mạng AWS cơ bản <br>&emsp; + VPC <br>&emsp; + Subnets (Public/Private) <br>&emsp; + Route Tables <br> | 27/04/2026   | 27/04/2026      | <https://cloudjourney.awsstudygroup.com/> |
-| 3   | - Tìm hiểu các cổng kết nối mạng <br>&emsp; + Internet Gateway (IGW) <br>&emsp; + NAT Gateway <br> - Vẽ sơ đồ mạng 2 lớp (2-tier) | 28/04/2026   | 28/04/2026      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Khái niệm định tuyến CIDR block <br> - Tìm hiểu Security Groups vs Network ACLs <br>&emsp; + Stateful <br>&emsp; + Stateless <br> | 29/04/2026   | 29/04/2026      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - **Thực hành:** <br>&emsp; + Tạo VPC tùy chỉnh <br>&emsp; + Cấu hình 1 Public & 1 Private Subnet <br>&emsp; + Gắn Internet Gateway | 30/04/2026   | 30/04/2026      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Thực hành:** <br>&emsp; + Cấu hình Route Table <br>&emsp; + Triển khai NAT Gateway <br>&emsp; + Kiểm tra kết nối ping/SSH | 01/05/2026   | 01/05/2026      | <https://cloudjourney.awsstudygroup.com/> |
+### Các công việc đã thực hiện:
+
+| Ngày | Công việc | Nguồn tài liệu |
+| --- | --- | --- |
+| 27/04/2026 | Tìm hiểu IAM User, Group, Policy và nguyên tắc đặc quyền tối thiểu. | <https://cloudjourney.awsstudygroup.com/> |
+| 28/04/2026 | Khởi tạo IAM Group và gắn IAM Policy phù hợp. | <https://cloudjourney.awsstudygroup.com/> |
+| 29/04/2026 | Tạo IAM User và cấp quyền thông qua Group. | <https://cloudjourney.awsstudygroup.com/> |
+| 30/04/2026 | Cấu hình IAM Role và thực hành kỹ thuật Switch Role. | <https://cloudjourney.awsstudygroup.com/> |
+| 02/05/2026 | Phân biệt quyền hạn và cách sử dụng phù hợp giữa Root User và IAM User. | <https://cloudjourney.awsstudygroup.com/> |
 
 ### Kết quả đạt được tuần 2:
 
-* Hiểu rõ kiến trúc mạng AWS và làm chủ các thành phần cốt lõi:
-  * VPC (Virtual Private Cloud)
-  * Subnets (Public vs Private)
-  * Route Tables
-  
-
-* Thiết kế thành công sơ đồ kiến trúc mạng 2-tier an toàn và tách biệt.
-
-* Phân biệt rõ ràng các lớp bảo mật mạng:
-  * Security Groups (Tường lửa mức Instance)
-  * Network ACLs (Tường lửa mức Subnet)
-  
-
-* Đã triển khai và cấu hình thành công một VPC tùy chỉnh từ con số không, bao gồm:
-  * Phân chia dải IP (CIDR)
-  * Internet Gateways
-  * NAT Gateways
-  
-
-* Kiểm chứng khả năng định tuyến và sự cô lập của mạng thông qua các lệnh ping và SSH thực tế.
-
-
+* Tạo và quản lý các danh tính IAM với cơ chế phân quyền theo Group.
+* Thực hành Switch Role và hiểu vì sao công việc hằng ngày nên dùng IAM thay cho Root User.

@@ -6,37 +6,25 @@ chapter: false
 pre: " <b> 1.12. </b> "
 ---
 
-
+**Thời gian thực tập:** 06/07/2026 - 11/07/2026
 
 ### Mục tiêu tuần 12:
 
-* Tiếp cận mô hình kiến trúc hiện đại Điện toán không máy chủ Serverless (AWS Lambda).
-* Tổng kết toàn bộ lộ trình kiến thức thực tập và đóng gói hoàn thiện sản phẩm trang web báo cáo kết quả trực tuyến (Lab 7 & Wrap-up).
+* Hoàn thiện, kiểm thử và tổng kết dự án nhóm.
+* Viết báo cáo thực tập và triển khai website worklog hỗ trợ báo cáo.
 
-### Các công việc cần triển khai trong tuần này:
-| Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Tìm hiểu mô hình điện toán không máy chủ Serverless <br>&emsp; + AWS Lambda cơ bản <br>&emsp; + Khái niệm kiến trúc hướng sự kiện (Event-driven Architecture) <br>&emsp; + Amazon API Gateway | 06/07/2026   | 06/07/2026      | <https://cloudjourney.awsstudygroup.com/> |
-| 3   | - **Thực hành (Phần 1):** <br>&emsp; + Lập trình viết một hàm AWS Lambda cơ bản bằng ngôn ngữ Python <br>&emsp; + Cấu hình Event Trigger tự động kích hoạt hàm khi có file mới đẩy vào Amazon S3 | 07/07/2026   | 07/07/2026      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - **Thực hành (Phần 2):** <br>&emsp; + Thực hiện upload file ảnh lên S3 <br>&emsp; + Truy cập Amazon CloudWatch theo dõi nhật ký thực thi logs hành vi <br>&emsp; + Thực hiện dọn dẹp các tài nguyên | 08/07/2026   | 08/07/2026      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Kiểm tra, rà soát toàn bộ tệp tin nội dung văn bản `.md` từ tuần 1 đến tuần 12 trong thư mục content của mã nguồn báo cáo | 09/07/2026   | 09/07/2026      | |
-| 6   | - Thực thi câu lệnh biên dịch hệ thống `hugo` tĩnh <br> - Đóng gói thư mục sản phẩm `public` và tiến hành triển khai đẩy lên môi trường trực tuyến thành công | 10/07/2026   | 10/07/2026      | |
+### Các công việc đã thực hiện:
+
+| Ngày | Công việc | Nguồn tài liệu |
+| --- | --- | --- |
+| 06/07/2026 | Hoàn thành các chức năng còn lại và tích hợp phiên bản cuối của dự án nhóm. |  |
+| 07/07/2026 | Kiểm thử dự án, sửa lỗi và xác nhận kết quả đáp ứng mục tiêu đã thống nhất. |  |
+| 08/07/2026 | Sắp xếp minh chứng, ghi chú kỹ thuật và dữ liệu tiến độ phục vụ báo cáo thực tập. |  |
+| 10/07/2026 | Viết và rà soát báo cáo thực tập 12 tuần bằng tiếng Việt và tiếng Anh. |  |
+| 11/07/2026 | Build website Hugo, đẩy mã nguồn lên GitHub và kiểm tra quá trình triển khai trên Netlify. |  |
 
 ### Kết quả đạt được tuần 12:
 
-* Làm chủ tư duy xây dựng giải pháp công nghệ không máy chủ (Serverless Paradigm):
-  * Hiểu cơ chế vận hành tối ưu chi phí tuyệt đối khi code chỉ chạy và tính tiền theo từng mili-giây khi có sự kiện kích hoạt kích duyệt
-  * Loại bỏ hoàn toàn gánh nặng kỹ thuật về việc quản lý và cập nhật bản vá hệ điều hành cho máy chủ máy ảo nền
-  
-
-* Triển khai xây dựng thành công ứng dụng tự động hóa hướng sự kiện:
-  * Tạo lập hoàn chỉnh hàm xử lý tự động AWS Lambda bằng mã lệnh Python kết nối trực tiếp với cổng tài nguyên lưu trữ Amazon S3
-  * Thành thục kỹ năng phân tích và giám sát gỡ lỗi hệ thống thông qua công cụ thu thập log tập trung Amazon CloudWatch
-  
-
-* Hoàn thành trọn vẹn tiến trình xây dựng báo cáo chuyên nghiệp:
-  * Hệ thống hóa toàn bộ chuỗi số liệu hoạt động, kiến thức kỹ thuật tích lũy xuyên suốt 12 tuần đồng hành cùng chương trình Cloud Journey
-  * Biên dịch thành công mã nguồn thô sang trang web tài liệu tĩnh hoàn chỉnh bằng Hugo framework
-  * Triển khai phân phối sản phẩm báo cáo lên môi trường mạng trực tuyến, tạo lập thành công đường link xem báo cáo trực quan gửi đến người hướng dẫn đánh giá nghiệm thu đợt thực tập
-
-
+* Hoàn thành dự án nhóm và xác nhận kết quả cuối cùng theo mục tiêu đề tài.
+* Hoàn thiện báo cáo thực tập và hệ thống hóa tiến độ của toàn bộ 12 tuần.
+* Triển khai worklog Hugo thông qua GitHub và Netlify, đồng thời xác nhận nội dung mới nhất đã hiển thị trực tuyến.

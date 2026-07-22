@@ -6,44 +6,24 @@ chapter: false
 pre: " <b> 1.2. </b> "
 ---
 
-
+**Internship period:** 27/04/2026 - 02/05/2026
 
 ### Week 2 Objectives:
 
-* Understand core networking architectures of AWS (Amazon VPC).
-* Master the concepts of network traffic security and routing.
+* Understand identity and access management with AWS IAM.
+* Practice assigning permissions through groups, users, policies, and roles.
 
-### Tasks to be carried out this week:
-| Day | Task | Start Date | Completion Date | Reference Material |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Learn basic AWS networking architecture <br>&emsp; + VPC <br>&emsp; + Subnets (Public/Private) <br>&emsp; + Route Tables <br> | 27/04/2026   | 27/04/2026      | <https://cloudjourney.awsstudygroup.com/> |
-| 3   | - Learn about network gateways <br>&emsp; + Internet Gateway (IGW) <br>&emsp; + NAT Gateway <br> - Design a 2-tier network diagram | 28/04/2026   | 28/04/2026      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Understand CIDR block routing <br> - Compare Security Groups vs Network ACLs <br>&emsp; + Stateful <br>&emsp; + Stateless <br> | 29/04/2026   | 29/04/2026      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - **Practice:** <br>&emsp; + Create custom VPC <br>&emsp; + Configure 1 Public & 1 Private Subnet <br>&emsp; + Attach Internet Gateway | 30/04/2026   | 30/04/2026      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Practice:** <br>&emsp; + Configure Route Table <br>&emsp; + Deploy NAT Gateway <br>&emsp; + Check ping/SSH connectivity | 01/05/2026   | 01/05/2026      | <https://cloudjourney.awsstudygroup.com/> |
+### Tasks Completed:
 
+| Date | Task | Reference Material |
+| --- | --- | --- |
+| 27/04/2026 | Study IAM users, groups, policies, and the principle of least privilege. | <https://cloudjourney.awsstudygroup.com/> |
+| 28/04/2026 | Create an IAM Group and attach an appropriate IAM Policy. | <https://cloudjourney.awsstudygroup.com/> |
+| 29/04/2026 | Create IAM Users and assign permissions through the group. | <https://cloudjourney.awsstudygroup.com/> |
+| 30/04/2026 | Configure an IAM Role and practice the Switch Role process. | <https://cloudjourney.awsstudygroup.com/> |
+| 02/05/2026 | Compare the privileges and recommended use of the Root User and IAM User. | <https://cloudjourney.awsstudygroup.com/> |
 
 ### Week 2 Achievements:
 
-* Grasped the AWS networking architecture and mastered core components:
-  * VPC (Virtual Private Cloud)
-  * Subnets (Public vs Private)
-  * Route Tables
-  
-
-* Successfully designed an isolated and secure 2-tier network diagram.
-
-* Clearly differentiated between network security layers:
-  * Security Groups (Instance-level firewall)
-  * Network ACLs (Subnet-level firewall)
-  
-
-* Successfully deployed and configured a custom VPC from scratch, including:
-  * Custom CIDR allocations
-  * Internet Gateways
-  * NAT Gateways
-  
-
-* Verified routing capabilities and network isolation using practical ping and SSH commands.
-
-
+* Created and managed IAM identities with group-based permissions.
+* Practiced role switching and understood why daily work should use IAM identities instead of the Root User.
