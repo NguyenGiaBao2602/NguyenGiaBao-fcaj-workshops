@@ -11,17 +11,17 @@ chapter: false
 
 
 ### Student Information:
-&emsp; **Full Name:** Ngo Nguyen Khanh Truong
+&emsp; **Full Name:** Nguyen Gia Bao
 
-&emsp; **Phone Number:** 0944868108
+&emsp; **Phone Number:** 0379431458
 
-&emsp; **Email:** khanhtruong91104@gmail.com
+&emsp; **Email:** nggiabao2602@gmail.com
 
 &emsp; **University:** Ho Chi Minh City University of Technology
 
 &emsp; **Major:** Information Technology
 
-&emsp; **Class:** 22DTHH4
+&emsp; **Class:** 22DTHE1
 
 &emsp; **Internship Company:** Amazon Web Services Viet Nam Company Limited
 

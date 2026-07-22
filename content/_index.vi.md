@@ -7,17 +7,17 @@ chapter: false
 
 # Báo cáo thực tập
 ### Thông tin sinh viên:
-&emsp; **Họ và tên:** Ngô Nguyễn Khánh Trường   
+&emsp; **Họ và tên:** Nguyễn Gia Baả   
 
-&emsp; **Số điện thoại:** 0944868108    
+&emsp; **Số điện thoại:** 0379431458   
 
-&emsp; **Email:** khanhtruong91104@gmail.com
+&emsp; **Email:** nggiabao2602@gmail.com
 
 &emsp; **Trường:** Đại học công nghệ thành phố HCM ( HUTECH )
 
 &emsp; **Ngành:** Công nghệ thông tin
 
-&emsp; **Lớp:** 22DTHH4
+&emsp; **Lớp:** 22DTHE1
 
 &emsp; **Công ty thực tập:** Công ty TNHH Amazon Web Services Viet Nam
 
