@@ -71,7 +71,7 @@ Attending the **“FCAJ Community Day - June 2026”** meetup provided a deeply 
 - **Networking and Active Exchange:** Explored the modern AWS office workspace at Bitexco, directly engaged with industry professionals and peers, and actively participated in Q&A discussions regarding Data Transfer Costs and context window efficiency[cite: 253].
 
 #### Event Media Logs
-![Ảnh 1](/images/4-Events/Event2.jpg)
+![Ảnh 1](/images/4-Events/Event2.png)
 
 
 > **Summary:** This workshop successfully bridged the gap between automated DevOps execution and secure corporate infrastructure. The insights on private endpoints and network cloaking directly complement my career goal of becoming a future Cloud Solutions Architect.

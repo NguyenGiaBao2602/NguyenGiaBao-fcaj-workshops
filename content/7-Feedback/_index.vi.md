@@ -7,12 +7,11 @@ pre: " <b> 7. </b> "
 ---
 
 
->Tại đây bạn có thể tự do đóng góp ý kiến cá nhân về những trải nghiệm khi tham gia chương trình First Cloud AI Journey, giúp team FCAJ cải thiện những vấn đề còn thiếu sót dựa trên các hạng mục sau:
 
 ### Đánh giá chung
 
 **1. Môi trường làm việc**  
-Môi trường làm việc cởi mở và dễ hòa nhập. Các anh chị trong team FCAJ hỗ trợ khá nhiệt tình khi mình gặp vướng mắc về luồng công việc hay kỹ thuật. Không gian làm việc chuyên nghiệp giúp mình dễ tập trung hoàn thành task. Điểm nhỏ là team có thể cân nhắc thêm 1-2 buổi giao lưu ngắn để các bạn thực tập sinh mới dễ làm quen với mọi người hơn.
+Môi trường làm việc cởi mở và dễ hòa nhập. Các anh chị trong team FCAJ hỗ trợ khá nhiệt tình khi mình gặp vướng mắc về luồng công việc hay kỹ thuật. Không gian làm việc chuyên nghiệp giúp mình dễ tập trung hoàn thành task.
 
 **2. Sự hỗ trợ của mentor / team admin**  
 Mentor bám sát tiến độ và định hướng công việc rõ ràng. Khi có vấn đề, mentor thường gợi ý hướng giải quyết để mình tự tìm hiểu và thực hành thay vì chỉ đưa sẵn đáp án, điều này giúp mình hiểu sâu và nhớ lâu hơn. Các anh chị admin cũng hỗ trợ quy trình onboarding, cấp quyền tài liệu rất nhanh gọn.
@@ -31,21 +30,21 @@ Chính sách hỗ trợ thực tập sinh của công ty rõ ràng. Việc team 
 
 ### Một số câu hỏi khác
 - **Điều bạn hài lòng nhất trong thời gian thực tập?**  
-Điều mình đánh giá cao nhất là được trực tiếp cấu hình và thao tác trên các dịch vụ thực tế của dự án thay vì chỉ học lý thuyết. Ngoài ra, cách mentor hướng dẫn theo phương pháp gợi mở đã giúp mình cải thiện tư duy giải quyết vấn đề (problem-solving) rất nhiều.
+Điều mình đánh giá cao nhất là được trực tiếp cấu hình và thao tác trên các dịch vụ thực tế của dự án thay vì chỉ học lý thuyết. Ngoài ra, cách anh chi mentor hướng dẫn theo phương pháp gợi mở đã giúp mình cải thiện tư duy giải quyết vấn đề rất nhiều.
 
 - **Điều bạn nghĩ công ty cần cải thiện cho các thực tập sinh sau?**  
-Team có thể cân nhắc chuẩn bị thêm một bộ tài liệu hướng dẫn ban đầu (onboarding document) tổng hợp các lỗi thường gặp khi cài đặt môi trường làm việc hoặc khi cấu hình dịch vụ. Điều này sẽ giúp các bạn thực tập sinh khóa sau tiết kiệm thời gian setup ở tuần đầu tiên.
+Vì điều kiện vật chất có phần hạn chế nên mình và các bạn khác không thể tham gia đủ số buổi tại công ty cũng như các buổi event. Hy vọng trong những đợt thực tập tiếp theo team sẽ có những phương án cải thiện để các bạn thực tập đợt sau có nơi học tập và làm việc thật hiệu quả ạ.
 
 - **Nếu giới thiệu cho bạn bè, bạn có khuyên họ thực tập ở đây không? Vì sao?**  
-Mình có. Đây là một môi trường rất tốt để chuyển giao từ môi trường đại học sang thực tế doanh nghiệp. Mọi người không chỉ được trau dồi kỹ năng chuyên môn mà còn rèn luyện được thái độ làm việc và kỹ năng phối hợp nhóm.
+Mình có. Theo mình thì tại đây tuy không phải là làm một công việc thực sự mà là đang học hỏi thêm kiến thức nhưng theo mình đây là một môi trường rất tốt để các bạn sinh viên có thể cảm nhận được sự chuyển giao từ môi trường đại học sang một doanh nghiệp thực tế. Mọi người không chỉ được trau dồi kỹ năng chuyên môn trong ngành mà còn rèn luyện được thái độ làm việc và kỹ năng phối hợp nhóm.
 
 
 ### Đề xuất & mong muốn
 - **Bạn có đề xuất gì để cải thiện trải nghiệm trong kỳ thực tập?**  
-Mình không có đề xuất vì kì thực tập rất tuyệt vời
+Mình không có đề xuất
 
 - **Bạn có muốn tiếp tục chương trình này trong tương lai?**
-Có, mình rất sẵn lòng. Nếu có cơ hội, mình mong muốn được tham gia sâu hơn vào các dự án tiếp theo của team hoặc thử sức ở vai trò Fresher để tiếp tục đóng góp và học hỏi.
+Có. Nếu có cơ hội, mình mong muốn được tham gia chuyên sâu hơn vào các dự án tiếp theo của team.
 
 - **Góp ý khác (tự do chia sẻ):**
-Cảm ơn các anh chị trong team FCAJ đã tạo điều kiện và kiên nhẫn hướng dẫn mình trong suốt thời gian qua. Những kinh nghiệm thực tế thu nhận được từ kỳ thực tập này là hành trang rất quý giá cho con đường sự nghiệp sắp tới của mình.
+Mình xin chân thành cảm ơn các anh chị trong team FCAJ đã tạo điều kiện và kiên nhẫn hướng dẫn mình trong suốt thời gian qua. Những kinh nghiệm thực tế thu nhận được từ kỳ thực tập này là hành trang rất quý giá cho con đường sự nghiệp sắp tới của mình.

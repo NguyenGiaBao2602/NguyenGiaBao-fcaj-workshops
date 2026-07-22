@@ -71,7 +71,7 @@ Tham gia hội thảo **“FCAJ Community Day - June 2026”** mang lại chuỗ
 - **Kết nối và trao đổi:** Cơ hội trải nghiệm không gian công nghệ hiện đại tại văn phòng AWS (tòa nhà Bitexco), gặp gỡ và giao lưu trực tiếp với các chuyên gia, đồng nghiệp[cite: 215]. Thảo luận sôi nổi về bài toán chi phí truyền tải dữ liệu (Data Transfer Cost) và cách tối ưu hóa cửa sổ ngữ cảnh (Context Window)[cite: 216].
 
 #### Một số hình ảnh khi tham gia sự kiện
-![Ảnh 1](/images/4-Events/Event2.jpg)
+![Ảnh 1](/images/4-Events/Event2.png)
 
 
 > **Tổng kết:** Sự kiện này đã giúp tôi củng cố tư duy kỹ trị và bảo mật cần có của một Solutions Architect tương lai, hiểu rõ cách vận hành hệ thống DevOps Agent thực tế cũng như phương thức thiết kế kết nối bảo mật cô lập cho doanh nghiệp.
