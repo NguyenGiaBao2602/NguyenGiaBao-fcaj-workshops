@@ -9,40 +9,40 @@ pre: " <b> 7. </b> "
 
 ### General Assessment
 
-**1. Working Environment** 
-The working environment is open and welcoming. The senior members of the FCAJ team are very supportive whenever I encounter workflow or technical difficulties. The professional workspace helps me easily focus on completing my tasks. A minor point is that the team could consider adding 1-2 short networking sessions to help new interns get acquainted with everyone more easily.
+**1. Working Environment**  
+The working environment is open and welcoming. The FCAJ team members are very supportive and helpful whenever I encounter difficulties related to workflow or technical issues. The professional working space helps me focus easily and complete tasks efficiently.
 
-**2. Support from Mentor / Team Admin** 
-The mentor closely follows the progress and provides clear work orientations. When there is a problem, the mentor usually suggests directions for a solution so that I can research and practice on my own instead of just giving the ready-made answer. This helps me understand deeply and remember longer. The admins also support the onboarding process and grant document permissions very quickly.
+**2. Support from Mentor / Team Admin**  
+The mentor closely follows progress and provides clear guidance for the work. When there is an issue, the mentor usually suggests directions for solving it so I can research and practice on my own instead of simply giving the answer. This helps me understand more deeply and remember longer. The admins also support the onboarding process and quickly grant access to documents and resources.
 
-**3. Relevance between Work and Major** 
-The assigned tasks closely align with the knowledge I am learning at school. I have the opportunity to directly apply theory to the project's practical problems, while also gaining exposure to practical technologies and services that the university environment rarely delves into.
+**3. Relevance between Work and Major**  
+The assigned tasks align closely with the knowledge I am studying at university. I had the opportunity to apply theory directly to real project problems while also getting exposure to practical technologies and services that are rarely covered in the academic environment.
 
-**4. Opportunities for Learning & Skill Development** 
-Besides professional knowledge, the internship helped me get used to standard workflows in a tech project: from how to use management tools and teamwork, to progress reporting. The insights shared by the mentor also helped me visualize my post-graduation career path more realistically.
+**4. Opportunities for Learning & Skill Development**  
+In addition to professional knowledge, the internship helped me get familiar with standard workflows in a technology project, from using management tools and teamwork to reporting progress. The mentor’s insights also helped me understand the real career path after graduation more clearly.
 
-**5. Culture & Team Spirit** 
-The team's work spirit is cohesive and professional. Even as an intern, my contributions are listened to. During phases where the project needs to speed up, everyone coordinates smoothly and supports each other very well to achieve the common goal.
+**5. Culture & Team Spirit**  
+The team’s working spirit is cohesive and professional. Even as an intern, my opinions and contributions are still listened to. During periods when the project needed to move quickly, everyone coordinated smoothly and supported one another well to achieve the shared goal.
 
-**6. Policies / Benefits for Interns** 
-The company's intern support policy is clear. The team's flexibility with time makes it easy for me to balance my work schedule and studies. The internal training sessions organized also bring a lot of practical value.
+**6. Policies / Benefits for Interns**  
+The company’s support policy for interns is clear. The team’s flexibility with working hours makes it easy to balance work and study. The internal training sessions also provide a lot of practical value.
 
 ### Other Questions
-- **What were you most satisfied with during the internship?** 
-What I appreciated the most was getting hands-on experience configuring and operating the project's actual services instead of just learning theory. Additionally, the mentor's heuristic approach to guidance significantly improved my problem-solving skills.
+- **What were you most satisfied with during the internship?**  
+What I appreciated the most was being able to directly configure and operate the real services used in the project instead of only learning theory. In addition, the mentor’s guiding approach helped me improve my problem-solving thinking a lot.
 
-- **What do you think the company needs to improve for future interns?** 
-The team could consider preparing an onboarding document summarizing common errors when setting up the work environment or configuring services. This would help future interns save setup time in their first week.
+- **What do you think the company needs to improve for future interns?**  
+Because the material conditions are somewhat limited, I and the other interns could not attend all the sessions at the company or the events. I hope that in future internship rounds, the team will introduce improvements so that interns in later batches can have a more effective place to study and work.
 
-- **Would you recommend this internship to your friends? Why?** 
-Yes, I would. This is an excellent environment to transition from a university setting to a real corporate workplace. It allows individuals not only to sharpen their technical skills but also to cultivate a professional work attitude and teamwork abilities.
+- **Would you recommend this internship to your friends? Why?**  
+Yes, I would. Although it may not be a fully formal job role, it is a very good environment for students to experience the transition from university to a real company. They not only develop technical skills in the field, but also improve their professional attitude and teamwork skills.
 
 ### Proposals & Wishes
-- **Do you have any suggestions to improve the internship experience?** 
-I don't have any suggestions because the internship was wonderful.
+- **Do you have any suggestions to improve the internship experience?**  
+I do not have any suggestions.
 
 - **Would you like to continue with this program in the future?**
-Yes, I would love to. If given the opportunity, I hope to be more deeply involved in the team's upcoming projects or take on a Fresher role to continue contributing and learning.
+Yes. If there is an opportunity, I hope to participate more deeply in the team’s future projects.
 
 - **Other feedback (free sharing):**
-I would like to thank the FCAJ team for facilitating my work and patiently guiding me throughout this time. The practical experience gained from this internship is a very valuable asset for my upcoming career path.
+I would like to sincerely thank the FCAJ team for creating opportunities and patiently guiding me throughout this period. The practical experience gained from this internship is a very valuable asset for my future career path.
