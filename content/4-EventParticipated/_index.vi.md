@@ -20,12 +20,12 @@ pre: " <b> 4. </b> "
 > * Việc liệt kê này giúp thể hiện rõ sự tham gia thực tế của bạn, cũng như các kỹ năng mềm và kinh nghiệm bạn đã tích lũy qua từng sự kiện.
 
 
-Trong quá trình thực tập, em đã tham gia 2 events, với mỗi event là một trải nghiệm đáng nhớ với những kiến thức mới, hay và bổ ích, cùng với đó là nhứng món quà và những khoảnh khắc rất tuyệt vời.
+Trong quá trình thực tập, tôi đã tham gia ba sự kiện. Mỗi sự kiện đều mang lại kiến thức thực tế, cơ hội giao lưu với cộng đồng công nghệ và những trải nghiệm có giá trị cho quá trình phát triển nghề nghiệp.
 
 ### [Event 1](4.1-Event1/)
 &emsp;**Tên sự kiện:** GenAI-powered App-DB Modernization workshop
 
-&emsp;**Thời gian:** 09:00 ngày 23/05/2025
+&emsp;**Thời gian:** 09:00 ngày 23/05/2026
 
 &emsp;**Địa điểm:** Tầng 36, tòa nhà Bitexco, số 02 đường Hải Triều, phường Sài Gòn, thành phố Hồ Chí Minh
 
@@ -34,13 +34,24 @@ Trong quá trình thực tập, em đã tham gia 2 events, với mỗi event là
 
 
 ### [Event 2](4.2-Event2/)
-&emsp;**Tên sự kiện:** FCAJ Community Day - June 2026
+&emsp;**Tên sự kiện:** Meet Up 30/05
 
-&emsp;**Thời gian:** 09:00 ngày 27/06/2026
+&emsp;**Thời gian:** Ngày 30/05/2026
 
 &emsp;**Địa điểm:** Tầng 36, tòa nhà Bitexco, số 02 đường Hải Triều, phường Sài Gòn, thành phố Hồ Chí Minh
 
 &emsp;**Vai trò trong sự kiện:** Người tham dự 
+
+---
+
+### [Event 3](4.3-Event3/)
+&emsp;**Tên sự kiện:** FCAJ Community Day - Tháng 6/2026
+
+&emsp;**Thời gian:** 09:00 ngày 27/06/2026
+
+&emsp;**Địa điểm:** Tầng 36, tòa nhà Bitexco, số 02 đường Hải Triều, phường Sài Gòn, Thành phố Hồ Chí Minh
+
+&emsp;**Vai trò trong sự kiện:** Người tham dự
 
 
 
